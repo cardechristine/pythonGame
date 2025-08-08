@@ -1,10 +1,10 @@
-🧪 Arcane Text Adventure Game
+🧪 Arcane Text-Based Adventure Game
 This is a simple text-based adventure game inspired by the world of Arcane. The player explores interconnected rooms, collects essential items, and ultimately faces off against the villain Silco in the final showdown.
 
 🎮 Game Features:
-Navigate through iconic locations like Piltover Sky Tower, Hexcore Cafe, and Zaun Alleyway
+Navigate through locations like Piltover Sky Tower, Hexcore Cafe, and Zaun Alleyway
 
-Collect 6 unique items needed to defeat Silco
+Collect 6 items needed to defeat Silco
 
 Win or lose based on your choices and inventory
 
